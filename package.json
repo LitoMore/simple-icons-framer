@@ -1,0 +1,24 @@
+{
+  "name": "simple-icons-framer",
+  "private": true,
+  "version": "0.0.0",
+  "description": "The Framer component for Simple Icons",
+    "scripts": {
+    "test": "xo"
+  },
+  "author": "LitoMore",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "typescript": "^5.0.4",
+    "xo": "^0.54.2"
+  },
+  "dependencies": {
+    "framer": "^2.3.0",
+    "react": "^18.2.0",
+    "simple-icons": "^8.14.0"
+  },
+  "xo": {
+    "prettier": true
+  }
+}
