@@ -2,7 +2,7 @@
 
 The Framer component for Simple Icons
 
-> This component is inspired from [Isaac Roberts's Framer component](https://www.framer.community/c/remix/simple-icons-over-2-400-brand-logos).
+*This component is inspired from [Isaac Roberts's Framer component](https://www.framer.community/c/remix/simple-icons-over-2-400-brand-logos).*
 
 ## Usage
 
