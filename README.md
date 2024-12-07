@@ -7,7 +7,7 @@ The Framer component for Simple Icons
 Copy and paste this import link into Framer to use the component:
 
 ```
-https://framer.com/m/SimpleIcons-K947.js
+https://framer.com/m/SimpleIcons-1Tar.js
 ```
 
 Full list of icons can be found at https://simpleicons.org.
